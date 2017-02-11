@@ -9,4 +9,8 @@
 /cygdrive/e/Reed Jones/Documents/CLion/BuildYourOwnLisp/main.c
 stdio.h
 -
+stdlib.h
+-
+string.h
+-
 
