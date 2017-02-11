@@ -1,0 +1,3 @@
+/cygdrive/e/Reed Jones/Documents/CLion/BuildYourOwnLisp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/e/Reed Jones/Documents/CLion/BuildYourOwnLisp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/Reed Jones/Documents/CLion/BuildYourOwnLisp/cmake-build-debug/CMakeFiles/BuildYourOwnLisp.dir
