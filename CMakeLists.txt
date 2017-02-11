@@ -3,5 +3,5 @@ project(BuildYourOwnLisp)
 
 set(CMAKE_C_STANDARD 11)
 
-set(SOURCE_FILES main.c)
+set(SOURCE_FILES main.c mpc.h mpc.c)
 add_executable(BuildYourOwnLisp ${SOURCE_FILES})

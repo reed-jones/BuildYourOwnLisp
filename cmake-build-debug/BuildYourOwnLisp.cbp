@@ -83,6 +83,12 @@
 		<Unit filename="/cygdrive/e/Reed Jones/Documents/CLion/BuildYourOwnLisp/main.c">
 			<Option target="BuildYourOwnLisp"/>
 		</Unit>
+		<Unit filename="/cygdrive/e/Reed Jones/Documents/CLion/BuildYourOwnLisp/mpc.c">
+			<Option target="BuildYourOwnLisp"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/Reed Jones/Documents/CLion/BuildYourOwnLisp/mpc.h">
+			<Option target="BuildYourOwnLisp"/>
+		</Unit>
 		<Unit filename="/cygdrive/e/Reed Jones/Documents/CLion/BuildYourOwnLisp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

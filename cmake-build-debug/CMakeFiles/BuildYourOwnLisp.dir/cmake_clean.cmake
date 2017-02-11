@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/BuildYourOwnLisp.dir/main.c.o"
+  "CMakeFiles/BuildYourOwnLisp.dir/mpc.c.o"
   "BuildYourOwnLisp.pdb"
   "BuildYourOwnLisp.exe"
   "libBuildYourOwnLisp.dll.a"

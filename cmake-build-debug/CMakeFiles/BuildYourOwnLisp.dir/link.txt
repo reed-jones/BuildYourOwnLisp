@@ -1,1 +1,1 @@
-/usr/bin/cc  -g  -Wl,--enable-auto-import CMakeFiles/BuildYourOwnLisp.dir/main.c.o  -o BuildYourOwnLisp.exe -Wl,--out-implib,libBuildYourOwnLisp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/cc  -g  -Wl,--enable-auto-import CMakeFiles/BuildYourOwnLisp.dir/main.c.o CMakeFiles/BuildYourOwnLisp.dir/mpc.c.o  -o BuildYourOwnLisp.exe -Wl,--out-implib,libBuildYourOwnLisp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

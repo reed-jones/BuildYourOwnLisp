@@ -13,4 +13,26 @@ stdlib.h
 -
 string.h
 -
+mpc.h
+/cygdrive/e/Reed Jones/Documents/CLion/BuildYourOwnLisp/mpc.h
+
+/cygdrive/e/Reed Jones/Documents/CLion/BuildYourOwnLisp/mpc.c
+mpc.h
+/cygdrive/e/Reed Jones/Documents/CLion/BuildYourOwnLisp/mpc.h
+
+/cygdrive/e/Reed Jones/Documents/CLion/BuildYourOwnLisp/mpc.h
+stdlib.h
+-
+stdio.h
+-
+stdarg.h
+-
+string.h
+-
+math.h
+-
+errno.h
+-
+ctype.h
+-
 

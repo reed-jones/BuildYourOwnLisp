@@ -150,6 +150,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/BuildYourOwnLisp.dir/build.make CMakeFiles/BuildYourOwnLisp.dir/main.c.s
 .PHONY : main.c.s
 
+mpc.o: mpc.c.o
+
+.PHONY : mpc.o
+
+# target to build an object file
+mpc.c.o:
+	$(MAKE) -f CMakeFiles/BuildYourOwnLisp.dir/build.make CMakeFiles/BuildYourOwnLisp.dir/mpc.c.o
+.PHONY : mpc.c.o
+
+mpc.i: mpc.c.i
+
+.PHONY : mpc.i
+
+# target to preprocess a source file
+mpc.c.i:
+	$(MAKE) -f CMakeFiles/BuildYourOwnLisp.dir/build.make CMakeFiles/BuildYourOwnLisp.dir/mpc.c.i
+.PHONY : mpc.c.i
+
+mpc.s: mpc.c.s
+
+.PHONY : mpc.s
+
+# target to generate assembly for a file
+mpc.c.s:
+	$(MAKE) -f CMakeFiles/BuildYourOwnLisp.dir/build.make CMakeFiles/BuildYourOwnLisp.dir/mpc.c.s
+.PHONY : mpc.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... mpc.o"
+	@echo "... mpc.i"
+	@echo "... mpc.s"
 .PHONY : help
 
 
